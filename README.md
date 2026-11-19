@@ -1,14 +1,14 @@
 <h1 align="center">Hi there! 👋 I'm Krishti Singh</h1>
 
 <p align="center">
-  Full-Stack Developer · Backend Engineer · Applied AI/ML Enthusiast
+  Full-Stack Development· Backend Development · Applied AI/ML Enthusiast
 </p>
 
 ---
 
 ### 🚀 About Me
 
-I'm a B.Tech student at **NIT Silchar** with a strong interest in backend engineering, full-stack systems, and applied AI/ML. I enjoy building end-to-end products—from deterministic NLP pipelines and multi-agent systems to scalable web APIs.
+I'm a B.Tech student at **NIT Silchar** with a strong interest in backend engineering, full-stack systems, and applied AI/ML. I enjoy building end-to-end products from deterministic NLP pipelines and multi-agent systems to scalable web APIs.
 
 - 🔭 **Currently working on:** Multi-agent systems & full-stack AI tools (**Lift**, **BuilderAI**)
 - 🌱 **Currently exploring:** Agentic workflows, local LLMs (Ollama), and system design
