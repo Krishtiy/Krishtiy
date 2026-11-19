@@ -10,7 +10,7 @@
 
 I'm a B.Tech student at **NIT Silchar** with a strong interest in backend engineering, full-stack systems, and applied AI/ML. I enjoy building end-to-end products from deterministic NLP pipelines and multi-agent systems to scalable web APIs.
 
-- 🔭 **Currently working on:** Multi-agent systems & full-stack AI tools (**Lift**, **BuilderAI**)
+- 🔭 **Currently working on:** Multi-agent systems & full-stack AI tools (**Lift** (https://github.com/Krishtiy), **BuilderAI**)
 - 🌱 **Currently exploring:** Agentic workflows, local LLMs (Ollama), and system design
 - 💼 **Recent Projects:** [Lift](https://github.com/Krishtiy), [AI Talent Suite](https://github.com/Krishtiy), [RockyBot](https://github.com/Krishtiy), [Scope-Creep Catcher](https://github.com/Krishtiy)
 - 🏆 **Highlights:** Top 11% contributor in GSSoC '26 · Hacktoberfest '26 · Flipkart Gridlock Round 2
