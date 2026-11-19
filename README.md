@@ -15,7 +15,7 @@ I'm a B.Tech student at **NIT Silchar** with a strong interest in backend engine
 - 💼 **Recent Projects:** [Lift](https://github.com/Krishtiy), [AI Talent Suite](https://github.com/Krishtiy), [RockyBot](https://github.com/Krishtiy), [Scope-Creep Catcher](https://github.com/Krishtiy)
 - 🏆 **Highlights:** Top 11% contributor in GSSoC '26 · Hacktoberfest '26 · Flipkart Gridlock Round 2
 - 📫 **Reach me at:** [singhkrishti265@gmail.com](mailto:singhkrishti265@gmail.com)
-- ⚡ **Fun fact:** I love solving DSA problems in C++ and building privacy-first local AI tools
+- ⚡ **Fun fact:** I love solving DSA problems and building AI Powered tools
 
 ---
 
