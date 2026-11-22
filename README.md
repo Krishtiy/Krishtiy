@@ -56,12 +56,12 @@ A quick snapshot of what I'm up to these days:
 
 | | Status | What |
 |---|---|---|
-| 🔨 **Building** | In progress | **Lift**, a multi-agent system that migrates legacy code (Python 2 → 3) and checks it with tests. Planning v2 with tool-calling loops. → [github.com/Krishtiy/lift-multiagent-migration](https://github.com/Krishtiy/lift-multiagent-migration) |
-| 🔨 **Building** | In progress | **Scope-Creep Catcher**, a local Ollama tool that helps freelancers stress-test a SOW and draft change orders. → [github.com/Krishtiy/Scope_Creep](https://github.com/Krishtiy/Scope_Creep) |
+| 🔨 **Building** | Actively Building | **Lift**, a multi-agent system that migrates legacy code (Python 2 → 3) and checks it with tests. Planning v2 with tool-calling loops. → [github.com/Krishtiy/lift-multiagent-migration](https://github.com/Krishtiy/lift-multiagent-migration) |
+| 🔨 **Building** | Recently Completed | **Scope-Creep Catcher**, a local Ollama tool that helps freelancers stress-test a SOW and draft change orders. → [github.com/Krishtiy/Scope_Creep](https://github.com/Krishtiy/Scope_Creep) |
 | 🌱 **Exploring** | Ongoing | Agentic workflows, local LLMs (Ollama), system design |
 | 📚 **Learning** | Ongoing | How LLMs work under the hood, alongside my B.Tech coursework |
 | 🧮 **Practising** | Regularly | DSA / LeetCode problems |
-| 🤝 **Open source** | Ongoing | Contributing during Hacktoberfest '26 (earlier: GSSoC '26, top 11%) |
+| 🤝 **Open source** | Enthusiastic | Contributed during Hacktoberfest '26 (earlier: GSSoC '26, top 11%) |
 
 > 💬 Got an idea, a bug, or want to collaborate? **[Open an issue and say hi →](https://github.com/Krishtiy/Krishtiy/issues/new?title=Hi%20Krishti!&body=I%20found%20your%20profile%20and%20wanted%20to%20talk%20about...)**
 
