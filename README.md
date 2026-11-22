@@ -122,7 +122,7 @@ A quick snapshot of what I'm up to these days:
 - 🌟 Top 11% contributor in **GSSoC '26**
 - 🎃 Contributing in **Hacktoberfest '26**
 - 🛒 **Flipkart Gridlock**, reached Round 2
-- 🧮 370+ problems solved on LeetCode
+- 🧮 400+ problems solved on LeetCode
 
 ---
 
