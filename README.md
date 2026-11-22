@@ -56,12 +56,12 @@ A quick snapshot of what I'm up to these days:
 
 | | Status | What |
 |---|---|---|
-| 🔨 **Building** | Actively Building | **Lift**, a multi-agent system that migrates legacy code (Python 2 → 3) and checks it with tests. Planning v2 with tool-calling loops. → [github.com/Krishtiy/lift-multiagent-migration](https://github.com/Krishtiy/lift-multiagent-migration) |
-| 🔨 **Building** | Recently Completed | **Scope-Creep Catcher**, a local Ollama tool that helps freelancers stress-test a SOW and draft change orders. → [github.com/Krishtiy/Scope_Creep](https://github.com/Krishtiy/Scope_Creep) |
+| 🔨 **Building** | In progress | **Lift**, a multi-agent system that migrates legacy code (Python 2 → 3) and checks it with tests. Planning v2 with tool-calling loops. → [github.com/Krishtiy/lift-multiagent-migration](https://github.com/Krishtiy/lift-multiagent-migration) |
+| 🔨 **Building** | In progress | **Scope-Creep Catcher**, a local Ollama tool that helps freelancers stress-test a SOW and draft change orders. → [github.com/Krishtiy/Scope_Creep](https://github.com/Krishtiy/Scope_Creep) |
 | 🌱 **Exploring** | Ongoing | Agentic workflows, local LLMs (Ollama), system design |
 | 📚 **Learning** | Ongoing | How LLMs work under the hood, alongside my B.Tech coursework |
 | 🧮 **Practising** | Regularly | DSA / LeetCode problems |
-| 🤝 **Open source** | Enthusiastic | Contributed during Hacktoberfest '26 (earlier: GSSoC '26, top 11%) |
+| 🤝 **Open source** | Ongoing | Contributing during Hacktoberfest '26 (earlier: GSSoC '26, top 11%) |
 
 > 💬 Got an idea, a bug, or want to collaborate? **[Open an issue and say hi →](https://github.com/Krishtiy/Krishtiy/issues/new?title=Hi%20Krishti!&body=I%20found%20your%20profile%20and%20wanted%20to%20talk%20about...)**
 
@@ -73,7 +73,7 @@ A quick snapshot of what I'm up to these days:
 > Click a project to expand it.
 
 <details>
-<summary><b>🔧 Lift</b> — multi-agent legacy code migration</summary>
+<summary><b>🔧 Lift</b>: multi-agent legacy code migration</summary>
 <br>
 
 - **What it does:** converts old code (Python 2 → 3) to the new version and verifies it with tests
@@ -85,7 +85,7 @@ A quick snapshot of what I'm up to these days:
 </details>
 
 <details>
-<summary><b>🧪 Scope-Creep Catcher</b> — local AI tool for freelancers</summary>
+<summary><b>🧪 Scope-Creep Catcher</b>: local AI tool for freelancers</summary>
 <br>
 
 - **What it does:** stress-tests a SOW, checks client requests against it and drafts change orders
@@ -96,7 +96,7 @@ A quick snapshot of what I'm up to these days:
 </details>
 
 <details>
-<summary><b>🏗️ BuilderAI</b> — AI code-generation platform</summary>
+<summary><b>🏗️ BuilderAI</b>: AI code-generation platform</summary>
 <br>
 
 - **Stack:** Node.js, Express, MongoDB
@@ -106,20 +106,13 @@ A quick snapshot of what I'm up to these days:
 </details>
 
 <details>
-<summary><b>🤖 RockyBot</b> — hybrid RAG question answering</summary>
+<summary><b>🤖 RockyBot</b>: hybrid RAG question answering</summary>
 <br>
 
 - **Stack:** LangChain, LangGraph, ChromaDB, evaluated with RAGAS, deployed on Streamlit
 - 🔗 [github.com/Krishtiy/RockyBot](https://github.com/Krishtiy/RockyBot)
 
 <a href="https://github.com/Krishtiy/RockyBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishtiy&repo=RockyBot&theme=tokyonight&hide_border=true" /></a>
-</details>
-
-<details>
-<summary><b>🧰 AI Talent Suite</b></summary>
-<br>
-
-- 🔗 [github.com/Krishtiy](https://github.com/Krishtiy) <!-- TODO: replace with the exact repo link and add a one-line description -->
 </details>
 
 ---
@@ -214,10 +207,6 @@ A quick snapshot of what I'm up to these days:
 </p>
 </details>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
 ---
 
 <a id="links"></a>
@@ -226,8 +215,8 @@ A quick snapshot of what I'm up to these days:
 | Where | Link |
 |---|---|
 | 🐙 GitHub | [github.com/Krishtiy](https://github.com/Krishtiy) |
-| 💼 LinkedIn | [linkedin.com/in/YOUR-LINKEDIN-HANDLE](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE) |
-| 🧮 LeetCode | [leetcode.com/u/YOUR-LEETCODE-HANDLE](https://leetcode.com/u/YOUR-LEETCODE-HANDLE) |
+| 💼 LinkedIn | [linkedin.com/in/krishti-singh0059](https://www.linkedin.com/in/krishti-singh0059/) |
+| 🧮 LeetCode | [leetcode.com/u/krishtyi1](https://leetcode.com/u/krishtyi1/) |
 | 🔧 Lift | [github.com/Krishtiy/lift-multiagent-migration](https://github.com/Krishtiy/lift-multiagent-migration) |
 | 🧪 Scope-Creep Catcher | [github.com/Krishtiy/Scope_Creep](https://github.com/Krishtiy/Scope_Creep) |
 | 🏗️ BuilderAI | [github.com/Krishtiy/BuilderAI](https://github.com/Krishtiy/BuilderAI) |
@@ -239,8 +228,8 @@ A quick snapshot of what I'm up to these days:
 ## 📫 Let's connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/YOUR-LEETCODE-HANDLE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.linkedin.com/in/krishti-singh0059/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/krishtyi1/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="mailto:singhkrishti265@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="mailto:krishti_ug_23@ei.nits.ac.in"><img src="https://img.shields.io/badge/College%20mail-4285F4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
