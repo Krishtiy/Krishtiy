@@ -57,7 +57,7 @@ A quick snapshot of what I'm up to these days:
 | | Status | What |
 |---|---|---|
 | 🔨 **Building** | In progress | **Lift**, a multi-agent system that migrates legacy code (Python 2 → 3) and checks it with tests. Planning v2 with tool-calling loops. → [github.com/Krishtiy/lift-multiagent-migration](https://github.com/Krishtiy/lift-multiagent-migration) |
-| 🔨 **Building** | In progress | **Scope-Creep Catcher**, a local Ollama tool that helps freelancers stress-test a SOW and draft change orders. → [github.com/Krishtiy/Scope_Creep](https://github.com/Krishtiy/Scope_Creep) |
+| 🔨 **Recently Done** | Completed Recently | **Scope-Creep Catcher**, a local Ollama tool that helps freelancers stress-test a SOW and draft change orders. → [github.com/Krishtiy/Scope_Creep](https://github.com/Krishtiy/Scope_Creep) |
 | 🌱 **Exploring** | Ongoing | Agentic workflows, local LLMs (Ollama), system design |
 | 📚 **Learning** | Ongoing | How LLMs work under the hood, alongside my B.Tech coursework |
 | 🧮 **Practising** | Regularly | DSA / LeetCode problems |
